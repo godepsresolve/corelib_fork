@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/godepsresolve/corelib"
+	"github.com/godepsresolve/corelib_fork"
 )
 
 func main() {
